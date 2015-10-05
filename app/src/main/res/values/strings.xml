@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">This App Came From Mmuppa</string>
     <string name="txt_send">Send</string>
     <string name="txt_send_again">Send Again</string>
 </resources>
